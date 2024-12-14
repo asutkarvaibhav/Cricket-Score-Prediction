@@ -37,3 +37,9 @@ Modeling: Implemented several models including:
 * India and England had the highest batting team scores.
 * Zimbabwe's bowling team had the highest average score allowed.
 * Random Forest and XGBoost performed the best with accuracy scores of 0.86 and 0.91, respectively.
+
+**Conclusion**
+
+The project demonstrates the use of machine learning in predicting cricket scores, providing insights into team performance and match outcomes.
+
+
