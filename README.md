@@ -5,6 +5,7 @@
 This project aims to predict the final score of T20 cricket matches based on various features such as batting team, bowling team, city, current run rate, wickets left, and more. The dataset used contains historical T20 match data, and various machine learning models were employed to make predictions.
 
 ***Dataset***
+
 The dataset used in this project is the T20I Cricket Dataset, which contains information about several T20 cricket matches. The columns include:
 
 * battingTeam: The team that is batting.
