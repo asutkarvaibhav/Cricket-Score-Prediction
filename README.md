@@ -1,4 +1,4 @@
-# Cricket-Score-Prediction
+# T20I Score Predictor
 
 
 
